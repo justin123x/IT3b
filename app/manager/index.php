@@ -378,7 +378,7 @@ if($section==='borrow' && $action==='return'){
 <body>
     <h1>Simple Library System</h1>
 
-      <a href="../../auth/signout.php">Sign Out</a>
+      <a href="../../auth/signout.php">Sign Out</a>   
 
     <nav>
         <a href="index.php?section=student">Student</a>
