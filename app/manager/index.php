@@ -380,6 +380,7 @@ if($section==='borrow' && $action==='return'){
 
       <a href="../../auth/signout.php">Sign Out</a>   
 
+      
     <nav>
         <a href="index.php?section=student">Student</a>
         <a href="index.php?section=books">Books</a>
